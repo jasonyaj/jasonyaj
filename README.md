@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](file:///C:/Users/jason/Pictures/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Jason Yang</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
