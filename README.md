@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/jasonyaj/jasonyaj/assets/124213154/a1528b37-300c-41ea-8a54-1cd8aae6624d)
 <h1 align="center">Hi 👋, I'm Jason Yang</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707"/>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707"](https://giffiles.alphacoders.com/100/100585.gif)/>
 
 - 🔭 I’m currently working on **Rescute**
 
