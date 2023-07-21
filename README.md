@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/jasonyaj/jasonyaj/assets/124213154/a1528b37-300c-41ea-8a54-1cd8aae6624d)
+![github-header-image](https://github.com/jasonyaj/jasonyaj/assets/124213154/0478b11d-ee50-400a-8050-c91c12e828a8)
 <h1 align="center">Hi 👋 there</h1>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/100/100585.gif">
 
