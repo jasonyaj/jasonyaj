@@ -39,9 +39,9 @@
 <h2>RESCUTE | <a href="https://github.com/jasonyaj/Rescute">Github</a></h2>
 <table>
 	<tr>
-		<td width="50%">
+		<td width="40%">
 			<p>Built using Java, Rescute is a 2d top down video game. Gameplay includes rescue missions while solving complex mazes as you progress through the game. Currently there is 3 maps playable and more to be added.</p>
-			<p>Try it out through the github link above or search for *"Rescute"* in my repositories. Feedbacks and/or suggestions are always welcomed.</p>
+			<p>Try it out through the github link above or search for <i>"Rescute"</i> in my repositories. Feedbacks and/or suggestions are always welcomed.</p>
 			<p>Enjoy!</p>
 		</td>
 		<td>
